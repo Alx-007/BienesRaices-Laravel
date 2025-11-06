@@ -30,19 +30,19 @@
 
         <div class="iconos-nosotros">
             <div class="icono">
-                <img src="build/img/icono1.svg" alt="Icono seguridad" loading="lazy">
+                <img src="img/icono1.svg" alt="Icono seguridad" loading="lazy">
                 <h3>Seguridad</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.Lorem ipsum dolor sit amet consectetur 
                     adipisicing elit. Quisquam, quod, Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.</p>
             </div>
             <div class="icono">
-                <img src="build/img/icono2.svg" alt="Icono precio" loading="lazy">
+                <img src="img/icono2.svg" alt="Icono precio" loading="lazy">
                 <h3>Precio</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.Lorem ipsum dolor sit amet consectetur 
                     adipisicing elit. Quisquam, quod, Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.</p>
             </div>
             <div class="icono">
-                <img src="build/img/icono3.svg" alt="Icono tiempo" loading="lazy">
+                <img src="img/icono3.svg" alt="Icono tiempo" loading="lazy">
                 <h3>Tiempo</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.Lorem ipsum dolor sit amet consectetur 
                     adipisicing elit. Quisquam, quod, Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.</p>
@@ -56,9 +56,9 @@
         <div class="contenedor-anuncios">
             <div class="anuncio">
                 <picture>
-                    <source srcset="build/img/anuncio1.webp" type="image/webp">
-                    <source srcset="build/img/anuncio1.jpg" type="image/jpeg">
-                    <img loading="lazy" src="build/img/anuncio1.jpg" alt="Anuncio 1">
+                    <source srcset="img/anuncio1.webp" type="image/webp">
+                    <source srcset="img/anuncio1.jpg" type="image/jpeg">
+                    <img loading="lazy" src="img/anuncio1.jpg" alt="Anuncio 1">
                 </picture>
                 <div class="contenido-anuncio">
                     <h3>Casa de Lujo en el Lago</h3>
@@ -67,15 +67,15 @@
 
                     <ul class="iconos-caracteristicas">
                         <li>
-                            <img class="icono" loading="lazy" src="build/img/icono_wc.svg" alt="icono wc">
+                            <img class="icono" loading="lazy" src="img/icono_wc.svg" alt="icono wc">
                             <p>3</p>
                         </li>
                         <li>
-                            <img class="icono" loading="lazy" src="build/img/icono_estacionamiento.svg" alt="icono estacionamiento">
+                            <img class="icono" loading="lazy" src="img/icono_estacionamiento.svg" alt="icono estacionamiento">
                             <p>2</p>
                         </li>
                         <li>
-                            <img class="icono" loading="lazy" src="build/img/icono_dormitorio.svg" alt="icono habitaciones">
+                            <img class="icono" loading="lazy" src="img/icono_dormitorio.svg" alt="icono habitaciones">
                             <p>4</p>
                         </li>
                     </ul>
@@ -86,9 +86,9 @@
 
             <div class="anuncio">
                 <picture>
-                    <source srcset="build/img/anuncio2.webp" type="image/webp">
-                    <source srcset="build/img/anuncio2.jpg" type="image/jpeg">
-                    <img loading="lazy" src="build/img/anuncio2.jpg" alt="Anuncio 2">
+                    <source srcset="img/anuncio2.webp" type="image/webp">
+                    <source srcset="img/anuncio2.jpg" type="image/jpeg">
+                    <img loading="lazy" src="img/anuncio2.jpg" alt="Anuncio 2">
                 </picture>
                 <div class="contenido-anuncio">
                     <h3>Casa en la Playa</h3>
@@ -97,15 +97,15 @@
 
                     <ul class="iconos-caracteristicas">
                         <li>
-                            <img class="icono" loading="lazy" src="build/img/icono_wc.svg" alt="icono wc">
+                            <img class="icono" loading="lazy" src="img/icono_wc.svg" alt="icono wc">
                             <p>3</p>
                         </li>
                         <li>
-                            <img class="icono" loading="lazy" src="build/img/icono_estacionamiento.svg" alt="icono estacionamiento">
+                            <img class="icono" loading="lazy" src="img/icono_estacionamiento.svg" alt="icono estacionamiento">
                             <p>2</p>
                         </li>
                         <li>
-                            <img class="icono" loading="lazy" src="build/img/icono_dormitorio.svg" alt="icono habitaciones">
+                            <img class="icono" loading="lazy" src="img/icono_dormitorio.svg" alt="icono habitaciones">
                             <p>4</p>
                         </li>
                     </ul>
@@ -116,9 +116,9 @@
 
             <div class="anuncio">
                 <picture>
-                    <source srcset="build/img/anuncio3.webp" type="image/webp">
-                    <source srcset="build/img/anuncio3.jpg" type="image/jpeg">
-                    <img loading="lazy" src="build/img/anuncio3.jpg" alt="Anuncio 3">
+                    <source srcset="img/anuncio3.webp" type="image/webp">
+                    <source srcset="img/anuncio3.jpg" type="image/jpeg">
+                    <img loading="lazy" src="img/anuncio3.jpg" alt="Anuncio 3">
                 </picture>
                 <div class="contenido-anuncio">
                     <h3>Casa con Piscina</h3>
@@ -127,15 +127,15 @@
 
                     <ul class="iconos-caracteristicas">
                         <li>
-                            <img class="icono" loading="lazy" src="build/img/icono_wc.svg" alt="icono wc">
+                            <img class="icono" loading="lazy" src="img/icono_wc.svg" alt="icono wc">
                             <p>3</p>
                         </li>
                         <li>
-                            <img class="icono" loading="lazy" src="build/img/icono_estacionamiento.svg" alt="icono estacionamiento">
+                            <img class="icono" loading="lazy" src="img/icono_estacionamiento.svg" alt="icono estacionamiento">
                             <p>2</p>
                         </li>
                         <li>
-                            <img class="icono" loading="lazy" src="build/img/icono_dormitorio.svg" alt="icono habitaciones">
+                            <img class="icono" loading="lazy" src="img/icono_dormitorio.svg" alt="icono habitaciones">
                             <p>4</p>
                         </li>
                     </ul>
