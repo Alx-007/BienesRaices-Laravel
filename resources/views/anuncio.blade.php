@@ -11,7 +11,7 @@
         <div class="contenedor">
             <div class="barra">
                 <a href="/">
-                    <img src="build/img/logo.svg" alt="logotipo">
+                    <img src="img/logo.svg" alt="logotipo">
                 </a>
 
                 <nav class="navegacion">
