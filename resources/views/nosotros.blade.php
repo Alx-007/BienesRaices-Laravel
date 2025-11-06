@@ -11,7 +11,7 @@
         <div class="contenedor">
             <div class="barra">
                 <a href="/">
-                    <img src="build/img/logo.svg" alt="logotipo">
+                    <img src="img/logo.svg" alt="logotipo">
                 </a>
 
                 <nav class="navegacion">
@@ -29,9 +29,9 @@
         <div class="contenido-nosotros">
             <div class="imagen">
                 <picture>
-                    <source srcset="build/img/nosotros.webp" type="image/webp">
-                    <source srcset="build/img/nosotros.jpg" type="image/jpeg">
-                    <img loading="lazy" src="build/img/nosotros.jpg" alt="Sobre Nosotros">
+                    <source srcset="img/nosotros.webp" type="image/webp">
+                    <source srcset="img/nosotros.jpg" type="image/jpeg">
+                    <img loading="lazy" src="img/nosotros.jpg" alt="Sobre Nosotros">
                 </picture>
             </div>
 
